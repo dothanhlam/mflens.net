@@ -1,0 +1,28 @@
+{
+  "name": "mflens.net",
+  "version": "1.0.0",
+  "description": "landing-page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dothanhlam/mflens.net.git"
+  },
+  "keywords": [
+    "mflens.net"
+  ],
+  "author": "Lam Do",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dothanhlam/mflens.net/issues"
+  },
+  "scripts": {
+    "start" : "http-server ."
+  },
+"homepage": "https://github.com/dothanhlam/mflens.net",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}
